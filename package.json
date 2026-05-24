@@ -1,0 +1,11 @@
+{
+  "name": "guiacasual",
+  "version": "2026.1.0",
+  "description": "Guia EXAME Casual: 100 Melhores Restaurantes do Brasil",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y http-server . -p 3000 -c-1 -o"
+  },
+  "author": "EXAME Casual"
+}
